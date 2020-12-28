@@ -1,5 +1,5 @@
 # Demonstração
-Link para visualizar: https://lcm7.github.io/calculadora-com-angular-11/dist/calculadora
+Link para visualizar: https://carlosmorais.github.io/calculadora-com-angular-11/dist/calculadora/
 
 # Calculadora
 
