@@ -1,3 +1,6 @@
+# Descrição
+Calculadora padrão desenvolvida com Angular 11
+
 # Demonstração
 Link para visualizar: https://carlosmorais.github.io/calculadora-com-angular-11/dist/calculadora/
 
