@@ -4,7 +4,7 @@ Calculadora padrão desenvolvida com Angular 11. Contém módulos, componentes e
 # Demonstração
 Link para visualizar/testar: https://carlosmorais.github.io/Calculadora-Com-Angular-11/dist/prod/
 
-![alt text](src/assets/calculadora.png)
+<a href="https://carlosmorais.github.io/Calculadora-Com-Angular-11/dist/prod/" target="_blank">![alt text](src/assets/calculadora.png)</a>
 
 # Calculadora
 
