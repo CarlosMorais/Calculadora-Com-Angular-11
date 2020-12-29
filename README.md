@@ -3,6 +3,7 @@ Calculadora padrão desenvolvida com Angular 11
 
 # Demonstração
 Link para visualizar: https://carlosmorais.github.io/Calculadora-Com-Angular-11//dist/calculadora/
+![alt text](src/assets/calculadora.png)
 
 # Calculadora
 
