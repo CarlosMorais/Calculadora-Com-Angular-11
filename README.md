@@ -1,5 +1,5 @@
 # Descrição
-Calculadora padrão desenvolvida com Angular 11
+Calculadora padrão desenvolvida com Angular 11. Contém módulos, componentes e serviço.
 
 # Demonstração
 Link para visualizar/testar: https://carlosmorais.github.io/Calculadora-Com-Angular-11/dist/prod/
